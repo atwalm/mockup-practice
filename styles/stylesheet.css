@@ -1,0 +1,124 @@
+.container{
+  width:100%;
+  height:100%;
+  background-color: white;
+
+
+}
+#amendment-title
+{
+  width:50%;
+  height: 200px;
+  background-color: black;
+  margin-left: 450px;
+
+}
+header h1
+{
+/*  text-align: right;*/
+
+  text-align:right;
+  margin-right: 5rem;
+  text-decoration: underline;
+ color: red;
+ position: relative;
+}
+h2
+{
+/*  font-size: 25px;*/
+  color:white;
+  margin : 4rem 2rem 0 2rem;
+  text-decoration-style:solid wavy;
+  letter-spacing: 2px;
+
+}
+h6
+{
+  font-size: 20px;
+  color:white;
+  margin : 1rem 2rem 0 2rem;
+  letter-spacing: 1px;
+
+}
+
+
+#amendement-nav
+{
+  width:50%;
+  height: 50px;
+  background-color: gray;
+  margin-left: 450px;
+  position: relative;
+
+
+
+}
+ul {
+  list-style-type: none;
+/*rem*/
+  margin: 0;
+  padding: 15px;
+  position: absolute;
+}
+li  {
+  display: inline;
+  padding: 38px;
+
+
+  }
+a  {
+    color: purple;
+   }
+#kitties-story
+{
+
+width:25%;
+height: 250px;
+background-color: white;
+margin-left: 450px;
+/*position: relative;*/
+
+}
+#kitties-Testimonials
+{
+width:25%;
+height: 80px;
+background-color: white;
+margin-left: 450px;
+/*  position: absolute;*/
+
+}
+#cat-of-the-week-box
+{
+width:18%;
+height:570px;
+border: 1px solid black;
+margin-left: 930px;
+margin-top: -22rem;
+
+}
+/*h3
+{
+
+color: blue;
+margin-left: 30px;
+
+}*/
+.cat {
+text-align: center;
+
+}
+.cat_second {
+text-align: center;
+
+}
+#amendement-footer-bar
+{
+width:50%;
+height: 250px;
+background-color: black;
+margin-left: 450px;
+margin-bottom:60px;
+margin-top: 20px;
+
+}
